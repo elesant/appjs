@@ -1,1 +1,1 @@
- [![Live Demo](https://usekite.com/live-demo-button.png)](https://localhost/deploy)
+ [![Live Demo](https://usekite.com/live-demo-button.png)](https://localhost/deploy) [![Kite](https://usekite.com/live-demo-button.png)](https://localhost/deploy)
